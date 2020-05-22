@@ -1,0 +1,13 @@
+*.aux
+*.auxlock
+*.vrb
+*.log
+*.out
+*.dvi
+*.synctex.gz
+*~
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+
